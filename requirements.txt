@@ -1,8 +1,7 @@
+streamlit
 requests
 bs4
 re
 PIL
 pandas
 PyPDF2
-os
-streamlit
