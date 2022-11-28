@@ -1,7 +1,7 @@
-streamlit
-requests
-bs4
-re
-PIL
-pandas
-PyPDF2
+pip install streamlit
+pip install requests
+pip install bs4
+pip install re
+pip install PIL
+pip install pandas
+pip install PyPDF2
